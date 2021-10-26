@@ -1,2 +1,65 @@
 /* Journey to The Center of the Earth Practicum */
 /* Marc Bonilla */
+
+/* Top Banner */
+header {
+    border-color: #886644;
+    border-radius: 15px 15px 0px 0px;
+    border-style: solid;
+    background-image: url(/img/cave.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: inset 10px 10px 10px #000000;
+    font-size: 30px;
+    text-shadow: 10px 10px 10px  #000000;
+    padding: 50px;
+    text-align: center;
+    color: white;
+    max-width: 1200px;
+    margin-top: 0px;
+    margin-left: 300px;
+    margin-right: 100px;
+    
+}
+
+/* options bar */
+nav {
+    border-style: solid;
+    border-radius: 0px 0px 0px 0px;
+    border-color: #886644;
+    box-shadow: inset 10px 10px 10px #000000;
+    margin-top: 10px;
+
+
+
+
+}
+
+/* Main body */
+main {
+    border-style: solid;
+    border-radius: 0px 0px 0px 0px;
+    border-color: #886644;
+    box-shadow: inset 10px 10px 10px #000000;
+    margin-top: 10px;
+
+}
+
+/* side bar */
+aside {
+    border-style: solid;
+    border-radius: 0px 0px 0px 0px;
+    border-color: #886644;
+    box-shadow: inset 10px 10px 10px #000000;
+    margin-top: 10px;
+
+}
+
+/* bottom */
+footer {
+    border-style: solid;
+    border-radius: 0px 0px 15px 15px;
+    border-color: #886644;
+    box-shadow: inset 10px 10px 10px #000000;
+    margin-top: 10px;
+}
